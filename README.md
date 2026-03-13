@@ -1,0 +1,2 @@
+# helsinki
+gorod vozmojnostei
